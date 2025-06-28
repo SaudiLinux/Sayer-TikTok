@@ -1,0 +1,8 @@
+requests>=2.25.1
+pillow>=8.0.0
+customtkinter>=4.6.3
+tiktok-api>=0.1.1
+python-dotenv>=0.19.0
+requests-html>=0.10.0
+beautifulsoup4>=4.9.3
+fake-useragent>=0.1.11
