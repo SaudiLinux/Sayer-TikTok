@@ -1,0 +1,547 @@
+{
+    "timestamp": "2025-06-28 10:01:39",
+    "target_username": "newstarter4",
+    "data": {
+        "profile": {
+            "username": "newstarter4",
+            "display_name": "Newstarter4 Official",
+            "bio": "This is a sample bio for demonstration purposes",
+            "follower_count": 606482,
+            "following_count": 1866,
+            "likes": 8528695,
+            "video_count": 98,
+            "verified": false,
+            "private": false,
+            "join_date": "2024-06-28"
+        },
+        "followers": [
+            {
+                "username": "follower_0_753",
+                "display_name": "Follower 0",
+                "follower_count": 8394,
+                "following_count": 673
+            },
+            {
+                "username": "follower_1_532",
+                "display_name": "Follower 1",
+                "follower_count": 2542,
+                "following_count": 194
+            },
+            {
+                "username": "follower_2_730",
+                "display_name": "Follower 2",
+                "follower_count": 4676,
+                "following_count": 761
+            },
+            {
+                "username": "follower_3_680",
+                "display_name": "Follower 3",
+                "follower_count": 9911,
+                "following_count": 531
+            },
+            {
+                "username": "follower_4_647",
+                "display_name": "Follower 4",
+                "follower_count": 4092,
+                "following_count": 239
+            },
+            {
+                "username": "follower_5_881",
+                "display_name": "Follower 5",
+                "follower_count": 4078,
+                "following_count": 754
+            },
+            {
+                "username": "follower_6_716",
+                "display_name": "Follower 6",
+                "follower_count": 1153,
+                "following_count": 329
+            },
+            {
+                "username": "follower_7_945",
+                "display_name": "Follower 7",
+                "follower_count": 4499,
+                "following_count": 37
+            },
+            {
+                "username": "follower_8_614",
+                "display_name": "Follower 8",
+                "follower_count": 396,
+                "following_count": 128
+            },
+            {
+                "username": "follower_9_874",
+                "display_name": "Follower 9",
+                "follower_count": 8039,
+                "following_count": 59
+            },
+            {
+                "username": "follower_10_314",
+                "display_name": "Follower 10",
+                "follower_count": 2016,
+                "following_count": 648
+            },
+            {
+                "username": "follower_11_394",
+                "display_name": "Follower 11",
+                "follower_count": 1702,
+                "following_count": 66
+            },
+            {
+                "username": "follower_12_310",
+                "display_name": "Follower 12",
+                "follower_count": 4388,
+                "following_count": 307
+            },
+            {
+                "username": "follower_13_673",
+                "display_name": "Follower 13",
+                "follower_count": 9616,
+                "following_count": 275
+            },
+            {
+                "username": "follower_14_509",
+                "display_name": "Follower 14",
+                "follower_count": 2492,
+                "following_count": 103
+            },
+            {
+                "username": "follower_15_343",
+                "display_name": "Follower 15",
+                "follower_count": 8134,
+                "following_count": 304
+            },
+            {
+                "username": "follower_16_682",
+                "display_name": "Follower 16",
+                "follower_count": 2592,
+                "following_count": 101
+            },
+            {
+                "username": "follower_17_551",
+                "display_name": "Follower 17",
+                "follower_count": 1241,
+                "following_count": 615
+            },
+            {
+                "username": "follower_18_296",
+                "display_name": "Follower 18",
+                "follower_count": 4101,
+                "following_count": 386
+            },
+            {
+                "username": "follower_19_964",
+                "display_name": "Follower 19",
+                "follower_count": 9318,
+                "following_count": 69
+            },
+            {
+                "username": "follower_20_466",
+                "display_name": "Follower 20",
+                "follower_count": 3300,
+                "following_count": 989
+            },
+            {
+                "username": "follower_21_156",
+                "display_name": "Follower 21",
+                "follower_count": 3048,
+                "following_count": 387
+            },
+            {
+                "username": "follower_22_961",
+                "display_name": "Follower 22",
+                "follower_count": 4511,
+                "following_count": 517
+            },
+            {
+                "username": "follower_23_364",
+                "display_name": "Follower 23",
+                "follower_count": 158,
+                "following_count": 798
+            },
+            {
+                "username": "follower_24_703",
+                "display_name": "Follower 24",
+                "follower_count": 7975,
+                "following_count": 821
+            }
+        ],
+        "following": [
+            {
+                "username": "following_0_672",
+                "display_name": "Following 0",
+                "follower_count": 6656,
+                "following_count": 184
+            },
+            {
+                "username": "following_1_741",
+                "display_name": "Following 1",
+                "follower_count": 7213,
+                "following_count": 973
+            },
+            {
+                "username": "following_2_750",
+                "display_name": "Following 2",
+                "follower_count": 5422,
+                "following_count": 782
+            },
+            {
+                "username": "following_3_318",
+                "display_name": "Following 3",
+                "follower_count": 5202,
+                "following_count": 385
+            },
+            {
+                "username": "following_4_697",
+                "display_name": "Following 4",
+                "follower_count": 5715,
+                "following_count": 498
+            },
+            {
+                "username": "following_5_435",
+                "display_name": "Following 5",
+                "follower_count": 1697,
+                "following_count": 660
+            },
+            {
+                "username": "following_6_930",
+                "display_name": "Following 6",
+                "follower_count": 1218,
+                "following_count": 857
+            },
+            {
+                "username": "following_7_169",
+                "display_name": "Following 7",
+                "follower_count": 3093,
+                "following_count": 401
+            },
+            {
+                "username": "following_8_706",
+                "display_name": "Following 8",
+                "follower_count": 4369,
+                "following_count": 759
+            },
+            {
+                "username": "following_9_802",
+                "display_name": "Following 9",
+                "follower_count": 818,
+                "following_count": 636
+            },
+            {
+                "username": "following_10_633",
+                "display_name": "Following 10",
+                "follower_count": 6962,
+                "following_count": 938
+            },
+            {
+                "username": "following_11_127",
+                "display_name": "Following 11",
+                "follower_count": 4777,
+                "following_count": 844
+            },
+            {
+                "username": "following_12_164",
+                "display_name": "Following 12",
+                "follower_count": 6901,
+                "following_count": 783
+            },
+            {
+                "username": "following_13_951",
+                "display_name": "Following 13",
+                "follower_count": 4887,
+                "following_count": 178
+            },
+            {
+                "username": "following_14_223",
+                "display_name": "Following 14",
+                "follower_count": 9551,
+                "following_count": 180
+            },
+            {
+                "username": "following_15_389",
+                "display_name": "Following 15",
+                "follower_count": 3437,
+                "following_count": 349
+            },
+            {
+                "username": "following_16_963",
+                "display_name": "Following 16",
+                "follower_count": 9740,
+                "following_count": 162
+            },
+            {
+                "username": "following_17_556",
+                "display_name": "Following 17",
+                "follower_count": 4467,
+                "following_count": 391
+            },
+            {
+                "username": "following_18_318",
+                "display_name": "Following 18",
+                "follower_count": 7787,
+                "following_count": 452
+            },
+            {
+                "username": "following_19_393",
+                "display_name": "Following 19",
+                "follower_count": 518,
+                "following_count": 986
+            },
+            {
+                "username": "following_20_810",
+                "display_name": "Following 20",
+                "follower_count": 7136,
+                "following_count": 566
+            },
+            {
+                "username": "following_21_433",
+                "display_name": "Following 21",
+                "follower_count": 7166,
+                "following_count": 169
+            },
+            {
+                "username": "following_22_674",
+                "display_name": "Following 22",
+                "follower_count": 9716,
+                "following_count": 391
+            },
+            {
+                "username": "following_23_856",
+                "display_name": "Following 23",
+                "follower_count": 4109,
+                "following_count": 935
+            },
+            {
+                "username": "following_24_703",
+                "display_name": "Following 24",
+                "follower_count": 5370,
+                "following_count": 901
+            },
+            {
+                "username": "following_25_256",
+                "display_name": "Following 25",
+                "follower_count": 9352,
+                "following_count": 792
+            },
+            {
+                "username": "following_26_842",
+                "display_name": "Following 26",
+                "follower_count": 7722,
+                "following_count": 807
+            },
+            {
+                "username": "following_27_126",
+                "display_name": "Following 27",
+                "follower_count": 3346,
+                "following_count": 503
+            },
+            {
+                "username": "following_28_831",
+                "display_name": "Following 28",
+                "follower_count": 4101,
+                "following_count": 71
+            },
+            {
+                "username": "following_29_713",
+                "display_name": "Following 29",
+                "follower_count": 1361,
+                "following_count": 763
+            },
+            {
+                "username": "following_30_488",
+                "display_name": "Following 30",
+                "follower_count": 1922,
+                "following_count": 324
+            },
+            {
+                "username": "following_31_270",
+                "display_name": "Following 31",
+                "follower_count": 9854,
+                "following_count": 621
+            },
+            {
+                "username": "following_32_728",
+                "display_name": "Following 32",
+                "follower_count": 8524,
+                "following_count": 706
+            },
+            {
+                "username": "following_33_828",
+                "display_name": "Following 33",
+                "follower_count": 9902,
+                "following_count": 661
+            },
+            {
+                "username": "following_34_439",
+                "display_name": "Following 34",
+                "follower_count": 9003,
+                "following_count": 990
+            },
+            {
+                "username": "following_35_754",
+                "display_name": "Following 35",
+                "follower_count": 4703,
+                "following_count": 276
+            },
+            {
+                "username": "following_36_797",
+                "display_name": "Following 36",
+                "follower_count": 878,
+                "following_count": 708
+            },
+            {
+                "username": "following_37_880",
+                "display_name": "Following 37",
+                "follower_count": 4272,
+                "following_count": 176
+            },
+            {
+                "username": "following_38_394",
+                "display_name": "Following 38",
+                "follower_count": 3258,
+                "following_count": 455
+            },
+            {
+                "username": "following_39_575",
+                "display_name": "Following 39",
+                "follower_count": 5122,
+                "following_count": 563
+            },
+            {
+                "username": "following_40_911",
+                "display_name": "Following 40",
+                "follower_count": 3574,
+                "following_count": 326
+            },
+            {
+                "username": "following_41_644",
+                "display_name": "Following 41",
+                "follower_count": 9652,
+                "following_count": 776
+            },
+            {
+                "username": "following_42_104",
+                "display_name": "Following 42",
+                "follower_count": 7558,
+                "following_count": 230
+            }
+        ],
+        "emails": {
+            "profile_email": "newstarter4@example.com",
+            "follower_emails": [
+                "follower_0@example.com",
+                "follower_1@example.com",
+                "follower_2@example.com",
+                "follower_3@example.com",
+                "follower_4@example.com",
+                "follower_5@example.com",
+                "follower_6@example.com",
+                "follower_7@example.com",
+                "follower_8@example.com",
+                "follower_9@example.com"
+            ],
+            "following_emails": [
+                "following_0@example.com",
+                "following_1@example.com",
+                "following_2@example.com",
+                "following_3@example.com",
+                "following_4@example.com",
+                "following_5@example.com",
+                "following_6@example.com",
+                "following_7@example.com",
+                "following_8@example.com",
+                "following_9@example.com",
+                "following_10@example.com",
+                "following_11@example.com",
+                "following_12@example.com"
+            ]
+        },
+        "phones": {
+            "profile_phone": "+15176089763",
+            "follower_phones": [
+                "+19234307219",
+                "+12698113129",
+                "+16496389667",
+                "+19781933067",
+                "+14601958626",
+                "+15542819347",
+                "+14908497272",
+                "+18804706279"
+            ],
+            "following_phones": [
+                "+13909572261",
+                "+11973909596",
+                "+12935343425",
+                "+11362815219",
+                "+19907121141",
+                "+15287818268",
+                "+17684488717",
+                "+19286512306",
+                "+14892631039",
+                "+14643211574"
+            ]
+        },
+        "tagged": [
+            {
+                "username": "tagged_0_450",
+                "display_name": "Tagged User 0",
+                "post_count": 1,
+                "last_tagged": "2025-06-06"
+            },
+            {
+                "username": "tagged_1_267",
+                "display_name": "Tagged User 1",
+                "post_count": 10,
+                "last_tagged": "2025-06-19"
+            },
+            {
+                "username": "tagged_2_942",
+                "display_name": "Tagged User 2",
+                "post_count": 10,
+                "last_tagged": "2025-06-22"
+            },
+            {
+                "username": "tagged_3_881",
+                "display_name": "Tagged User 3",
+                "post_count": 6,
+                "last_tagged": "2025-06-04"
+            },
+            {
+                "username": "tagged_4_128",
+                "display_name": "Tagged User 4",
+                "post_count": 8,
+                "last_tagged": "2025-06-21"
+            },
+            {
+                "username": "tagged_5_686",
+                "display_name": "Tagged User 5",
+                "post_count": 1,
+                "last_tagged": "2025-06-03"
+            },
+            {
+                "username": "tagged_6_840",
+                "display_name": "Tagged User 6",
+                "post_count": 9,
+                "last_tagged": "2025-06-18"
+            },
+            {
+                "username": "tagged_7_244",
+                "display_name": "Tagged User 7",
+                "post_count": 4,
+                "last_tagged": "2025-06-01"
+            },
+            {
+                "username": "tagged_8_760",
+                "display_name": "Tagged User 8",
+                "post_count": 9,
+                "last_tagged": "2025-06-17"
+            },
+            {
+                "username": "tagged_9_478",
+                "display_name": "Tagged User 9",
+                "post_count": 4,
+                "last_tagged": "2025-06-11"
+            }
+        ]
+    }
+}

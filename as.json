@@ -1,0 +1,31 @@
+{
+    "timestamp": "2025-06-28 19:30:56",
+    "target_username": "SaudiCrackers",
+    "data": {
+        "profile": {
+            "username": "SaudiCrackers",
+            "display_name": "SaudiCrackers",
+            "bio": "",
+            "follower_count": 0,
+            "following_count": 0,
+            "likes": 0,
+            "video_count": 0,
+            "verified": false,
+            "private": false,
+            "join_date": "2025-06-28"
+        },
+        "followers": [],
+        "following": [],
+        "emails": {
+            "profile_email": "",
+            "follower_emails": [],
+            "following_emails": []
+        },
+        "phones": {
+            "profile_phone": "",
+            "follower_phones": [],
+            "following_phones": []
+        },
+        "tagged": []
+    }
+}

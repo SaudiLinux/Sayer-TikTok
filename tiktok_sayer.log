@@ -1,0 +1,242 @@
+2025-06-28 19:27:47,959 - TikTok-Sayer - INFO - Starting analysis for user: @SaudiCrackers
+2025-06-28 19:27:47,985 - TikTok-Sayer - INFO - Fetching profile information...
+2025-06-28 19:27:48,010 - TikTok-Sayer - INFO - Fetching profile information for @SaudiCrackers...
+2025-06-28 19:27:48,038 - TikTok-Sayer - INFO - Attempting to fetch data from TikTok API...
+2025-06-28 19:27:49,397 - TikTok-Sayer - INFO - API request failed: Expecting value: line 1 column 1 (char 0). Falling back to web scraping.
+2025-06-28 19:27:49,442 - TikTok-Sayer - INFO - Using web scraping to fetch profile data...
+2025-06-28 19:27:49,556 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:27:51,416 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:27:52,655 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:27:53,720 - WDM - INFO - There is no [win64] chromedriver "137.0.7151.119" for browser google-chrome "137.0.7151" in cache
+2025-06-28 19:27:53,721 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:27:55,973 - WDM - INFO - WebDriver version 137.0.7151.119 selected
+2025-06-28 19:27:55,979 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+2025-06-28 19:27:55,980 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.119/win32/chromedriver-win32.zip
+2025-06-28 19:27:57,065 - WDM - INFO - Driver downloading response is 200
+2025-06-28 19:27:58,881 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:04,439 - WDM - INFO - Driver has been saved in cache [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119]
+2025-06-28 19:28:04,482 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:04,488 - TikTok-Sayer - INFO - Failed to get profile info: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:05,128 - TikTok-Sayer - INFO - Fetching followers...
+2025-06-28 19:28:05,181 - TikTok-Sayer - INFO - Fetching followers for @SaudiCrackers...
+2025-06-28 19:28:05,311 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:28:07,013 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:08,024 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:09,036 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:28:09,038 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:09,039 - TikTok-Sayer - INFO - Failed to get followers: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:09,078 - TikTok-Sayer - INFO - Could not retrieve followers. TikTok restricts access to this information.
+2025-06-28 19:28:09,117 - TikTok-Sayer - INFO - Fetching following...
+2025-06-28 19:28:09,152 - TikTok-Sayer - INFO - Fetching following for @SaudiCrackers...
+2025-06-28 19:28:09,326 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:28:11,053 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:12,083 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:13,189 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:28:13,191 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:13,192 - TikTok-Sayer - INFO - Failed to get following: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:13,193 - TikTok-Sayer - INFO - Could not retrieve following. TikTok restricts access to this information.
+2025-06-28 19:28:13,195 - TikTok-Sayer - INFO - Extracting emails...
+2025-06-28 19:28:13,208 - TikTok-Sayer - INFO - Extracting emails for @SaudiCrackers...
+2025-06-28 19:28:13,214 - TikTok-Sayer - INFO - Extracting contact information for @SaudiCrackers...
+2025-06-28 19:28:13,219 - TikTok-Sayer - INFO - Fetching profile information for @SaudiCrackers...
+2025-06-28 19:28:13,263 - TikTok-Sayer - INFO - Attempting to fetch data from TikTok API...
+2025-06-28 19:28:14,482 - TikTok-Sayer - INFO - API request failed: Expecting value: line 1 column 1 (char 0). Falling back to web scraping.
+2025-06-28 19:28:14,487 - TikTok-Sayer - INFO - Using web scraping to fetch profile data...
+2025-06-28 19:28:14,632 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:28:16,537 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:17,518 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:18,540 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:28:18,542 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:18,543 - TikTok-Sayer - INFO - Failed to get profile info: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:18,659 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:28:20,335 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:21,362 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:22,371 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:28:22,376 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:22,386 - TikTok-Sayer - INFO - Failed to extract contact information: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:22,399 - TikTok-Sayer - INFO - Extracting phone numbers...
+2025-06-28 19:28:22,440 - TikTok-Sayer - INFO - Extracting phone numbers for @SaudiCrackers...
+2025-06-28 19:28:22,453 - TikTok-Sayer - INFO - Extracting contact information for @SaudiCrackers...
+2025-06-28 19:28:22,474 - TikTok-Sayer - INFO - Fetching profile information for @SaudiCrackers...
+2025-06-28 19:28:22,485 - TikTok-Sayer - INFO - Attempting to fetch data from TikTok API...
+2025-06-28 19:28:23,787 - TikTok-Sayer - INFO - API request failed: Expecting value: line 1 column 1 (char 0). Falling back to web scraping.
+2025-06-28 19:28:23,791 - TikTok-Sayer - INFO - Using web scraping to fetch profile data...
+2025-06-28 19:28:23,897 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:28:25,543 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:26,724 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:27,790 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:28:27,793 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:27,794 - TikTok-Sayer - INFO - Failed to get profile info: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:27,968 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:28:30,268 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:31,310 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:32,370 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:28:32,372 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:32,372 - TikTok-Sayer - INFO - Failed to extract contact information: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:32,380 - TikTok-Sayer - INFO - Finding tagged users...
+2025-06-28 19:28:32,401 - TikTok-Sayer - INFO - Searching for users who tagged @SaudiCrackers...
+2025-06-28 19:28:32,517 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:28:34,199 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:35,267 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:36,447 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:28:36,449 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:36,449 - TikTok-Sayer - INFO - Failed to get tagged users: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:36,453 - TikTok-Sayer - INFO - No users found who tagged this username
+2025-06-28 19:28:36,474 - TikTok-Sayer - INFO - Analysis completed successfully
+2025-06-28 19:28:50,788 - TikTok-Sayer - INFO - Starting analysis for user: @SaudiCrackers
+2025-06-28 19:28:50,790 - TikTok-Sayer - INFO - Fetching profile information...
+2025-06-28 19:28:50,791 - TikTok-Sayer - INFO - Fetching profile information for @SaudiCrackers...
+2025-06-28 19:28:50,792 - TikTok-Sayer - INFO - Attempting to fetch data from TikTok API...
+2025-06-28 19:28:52,318 - TikTok-Sayer - INFO - API request failed: Expecting value: line 1 column 1 (char 0). Falling back to web scraping.
+2025-06-28 19:28:52,320 - TikTok-Sayer - INFO - Using web scraping to fetch profile data...
+2025-06-28 19:28:52,427 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:28:54,443 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:55,533 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:28:56,674 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:28:56,676 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:56,676 - TikTok-Sayer - INFO - Failed to get profile info: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:28:57,556 - TikTok-Sayer - INFO - Fetching followers...
+2025-06-28 19:28:57,614 - TikTok-Sayer - INFO - Fetching followers for @SaudiCrackers...
+2025-06-28 19:28:57,722 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:28:59,432 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:29:00,432 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:29:01,441 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:29:01,443 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:29:01,443 - TikTok-Sayer - INFO - Failed to get followers: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:29:01,444 - TikTok-Sayer - INFO - Could not retrieve followers. TikTok restricts access to this information.
+2025-06-28 19:29:01,445 - TikTok-Sayer - INFO - Fetching following...
+2025-06-28 19:29:01,451 - TikTok-Sayer - INFO - Fetching following for @SaudiCrackers...
+2025-06-28 19:29:01,560 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:29:03,245 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:29:04,296 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:29:06,579 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:29:06,583 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:29:06,585 - TikTok-Sayer - INFO - Failed to get following: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:29:06,589 - TikTok-Sayer - INFO - Could not retrieve following. TikTok restricts access to this information.
+2025-06-28 19:29:06,593 - TikTok-Sayer - INFO - Extracting emails...
+2025-06-28 19:29:06,608 - TikTok-Sayer - INFO - Extracting emails for @SaudiCrackers...
+2025-06-28 19:29:06,613 - TikTok-Sayer - INFO - Extracting contact information for @SaudiCrackers...
+2025-06-28 19:29:06,622 - TikTok-Sayer - INFO - Fetching profile information for @SaudiCrackers...
+2025-06-28 19:29:06,628 - TikTok-Sayer - INFO - Attempting to fetch data from TikTok API...
+2025-06-28 19:29:07,899 - TikTok-Sayer - INFO - API request failed: Expecting value: line 1 column 1 (char 0). Falling back to web scraping.
+2025-06-28 19:29:07,902 - TikTok-Sayer - INFO - Using web scraping to fetch profile data...
+2025-06-28 19:29:08,003 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:29:09,572 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:29:11,616 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:29:12,678 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:29:12,681 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:29:12,682 - TikTok-Sayer - INFO - Failed to get profile info: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:29:12,815 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:29:14,726 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:29:15,750 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:29:16,739 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:29:16,742 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:29:16,743 - TikTok-Sayer - INFO - Failed to extract contact information: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:29:16,751 - TikTok-Sayer - INFO - Extracting phone numbers...
+2025-06-28 19:29:16,772 - TikTok-Sayer - INFO - Extracting phone numbers for @SaudiCrackers...
+2025-06-28 19:29:16,776 - TikTok-Sayer - INFO - Extracting contact information for @SaudiCrackers...
+2025-06-28 19:29:16,784 - TikTok-Sayer - INFO - Fetching profile information for @SaudiCrackers...
+2025-06-28 19:29:16,794 - TikTok-Sayer - INFO - Attempting to fetch data from TikTok API...
+2025-06-28 19:29:18,363 - TikTok-Sayer - INFO - API request failed: Expecting value: line 1 column 1 (char 0). Falling back to web scraping.
+2025-06-28 19:29:18,369 - TikTok-Sayer - INFO - Using web scraping to fetch profile data...
+2025-06-28 19:29:18,472 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:29:20,074 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:29:21,136 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:29:22,119 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:29:22,124 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:29:22,124 - TikTok-Sayer - INFO - Failed to get profile info: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:29:22,257 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:29:23,856 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:29:25,842 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:29:26,830 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:29:26,834 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:29:26,834 - TikTok-Sayer - INFO - Failed to extract contact information: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:29:26,846 - TikTok-Sayer - INFO - Finding tagged users...
+2025-06-28 19:29:26,865 - TikTok-Sayer - INFO - Searching for users who tagged @SaudiCrackers...
+2025-06-28 19:29:26,984 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:29:28,639 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:29:29,637 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:29:30,621 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:29:30,624 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:29:30,625 - TikTok-Sayer - INFO - Failed to get tagged users: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:29:30,630 - TikTok-Sayer - INFO - No users found who tagged this username
+2025-06-28 19:29:30,645 - TikTok-Sayer - INFO - Analysis completed successfully
+2025-06-28 19:30:04,116 - TikTok-Sayer - INFO - Starting analysis for user: @SaudiCrackers
+2025-06-28 19:30:04,120 - TikTok-Sayer - INFO - Fetching profile information...
+2025-06-28 19:30:04,121 - TikTok-Sayer - INFO - Fetching profile information for @SaudiCrackers...
+2025-06-28 19:30:04,122 - TikTok-Sayer - INFO - Attempting to fetch data from TikTok API...
+2025-06-28 19:30:05,457 - TikTok-Sayer - INFO - API request failed: Expecting value: line 1 column 1 (char 0). Falling back to web scraping.
+2025-06-28 19:30:05,458 - TikTok-Sayer - INFO - Using web scraping to fetch profile data...
+2025-06-28 19:30:05,554 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:30:07,504 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:30:08,580 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:30:09,581 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:30:09,716 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:30:09,716 - TikTok-Sayer - INFO - Failed to get profile info: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:30:10,337 - TikTok-Sayer - INFO - Fetching followers...
+2025-06-28 19:30:10,381 - TikTok-Sayer - INFO - Fetching followers for @SaudiCrackers...
+2025-06-28 19:30:10,485 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:30:12,072 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:30:13,062 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:30:14,100 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:30:14,115 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:30:14,134 - TikTok-Sayer - INFO - Failed to get followers: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:30:14,139 - TikTok-Sayer - INFO - Could not retrieve followers. TikTok restricts access to this information.
+2025-06-28 19:30:14,179 - TikTok-Sayer - INFO - Fetching following...
+2025-06-28 19:30:14,186 - TikTok-Sayer - INFO - Fetching following for @SaudiCrackers...
+2025-06-28 19:30:14,371 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:30:16,394 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:30:17,467 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:30:18,431 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:30:18,433 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:30:18,435 - TikTok-Sayer - INFO - Failed to get following: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:30:18,437 - TikTok-Sayer - INFO - Could not retrieve following. TikTok restricts access to this information.
+2025-06-28 19:30:18,439 - TikTok-Sayer - INFO - Extracting emails...
+2025-06-28 19:30:18,450 - TikTok-Sayer - INFO - Extracting emails for @SaudiCrackers...
+2025-06-28 19:30:18,458 - TikTok-Sayer - INFO - Extracting contact information for @SaudiCrackers...
+2025-06-28 19:30:18,464 - TikTok-Sayer - INFO - Fetching profile information for @SaudiCrackers...
+2025-06-28 19:30:18,469 - TikTok-Sayer - INFO - Attempting to fetch data from TikTok API...
+2025-06-28 19:30:19,747 - TikTok-Sayer - INFO - API request failed: Expecting value: line 1 column 1 (char 0). Falling back to web scraping.
+2025-06-28 19:30:19,750 - TikTok-Sayer - INFO - Using web scraping to fetch profile data...
+2025-06-28 19:30:19,891 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:30:21,555 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:30:22,557 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:30:23,650 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:30:23,655 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:30:23,656 - TikTok-Sayer - INFO - Failed to get profile info: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:30:23,792 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:30:25,373 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:30:26,437 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:30:27,437 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:30:27,440 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:30:27,440 - TikTok-Sayer - INFO - Failed to extract contact information: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:30:27,445 - TikTok-Sayer - INFO - Extracting phone numbers...
+2025-06-28 19:30:27,456 - TikTok-Sayer - INFO - Extracting phone numbers for @SaudiCrackers...
+2025-06-28 19:30:27,459 - TikTok-Sayer - INFO - Extracting contact information for @SaudiCrackers...
+2025-06-28 19:30:27,465 - TikTok-Sayer - INFO - Fetching profile information for @SaudiCrackers...
+2025-06-28 19:30:27,472 - TikTok-Sayer - INFO - Attempting to fetch data from TikTok API...
+2025-06-28 19:30:28,723 - TikTok-Sayer - INFO - API request failed: Expecting value: line 1 column 1 (char 0). Falling back to web scraping.
+2025-06-28 19:30:28,727 - TikTok-Sayer - INFO - Using web scraping to fetch profile data...
+2025-06-28 19:30:28,828 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:30:30,590 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:30:31,721 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:30:32,706 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:30:32,710 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:30:32,711 - TikTok-Sayer - INFO - Failed to get profile info: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:30:32,853 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:30:34,829 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:30:35,832 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:30:36,877 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:30:36,879 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:30:36,880 - TikTok-Sayer - INFO - Failed to extract contact information: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:30:36,887 - TikTok-Sayer - INFO - Finding tagged users...
+2025-06-28 19:30:36,900 - TikTok-Sayer - INFO - Searching for users who tagged @SaudiCrackers...
+2025-06-28 19:30:37,008 - WDM - INFO - ====== WebDriver manager ======
+2025-06-28 19:30:38,564 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:30:39,586 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-06-28 19:30:40,561 - WDM - INFO - Driver [C:\Users\Dell\.wdm\drivers\chromedriver\win64\137.0.7151.119\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-06-28 19:30:40,570 - TikTok-Sayer - ERROR - Failed to setup WebDriver: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:30:40,571 - TikTok-Sayer - INFO - Failed to get tagged users: [WinError 193] %1 is not a valid Win32 application
+2025-06-28 19:30:40,579 - TikTok-Sayer - INFO - No users found who tagged this username
+2025-06-28 19:30:40,596 - TikTok-Sayer - INFO - Analysis completed successfully
+2025-06-28 19:30:56,002 - TikTok-Sayer - INFO - Results exported to C:/Users/Dell/Desktop/TikTok-Sayer/as.json
